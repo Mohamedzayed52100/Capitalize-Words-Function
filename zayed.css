@@ -1,0 +1,22 @@
+* {
+    box-sizing: border-box;
+}
+
+input {
+    display: block;
+    padding: 25px;
+    margin: 20px auto;
+    width: 750px;
+    font-size: 20px;
+}
+
+button {
+    display: block;
+    padding: 15px 25px;
+    margin: 20px auto;
+    cursor: pointer;
+}
+
+h1 {
+    text-align: center;
+}
